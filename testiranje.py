@@ -1,8 +1,3 @@
-Enijad Sehic
-	
-9:54 PM (16 minutes ago)
-	
-to me
 #!/usr/bin/python3
 
 import requests from bs4 import BeautifulSoup

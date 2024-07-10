@@ -1,4 +1,4 @@
-python
+python3
 #!/usr/bin/python3
 
 # Corrected import statements
